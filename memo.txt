@@ -1,0 +1,23 @@
+
+git clone でファイルを作成
+
+(git bash here)
+git clone https://github.com/obatajunya/My-first-git.git
+
+同じことは　sourceTree　でも可能
+ファイル -新規クローンを作成する
+
+-------------------------------------------
+フォルダの中で作業
+
+ファイルを作成。編集
+--------------------------------------------
+(git bash)
+
+$ git add
+$ git commit -m"めっせーじ"
+$ git push -u origin main
+
+$ git log (確認)
+
+
